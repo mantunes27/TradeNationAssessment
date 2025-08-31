@@ -1,0 +1,13 @@
+{
+    "baseUrl": "https://tradenation.com/en-gb/forex/",
+
+    "invalidLoginCredentials": {
+        "emailAddress": "nonExistingUser@gmail.com",
+        "password": "hunter2"
+    },
+
+    "validationMessages":{
+        "expectedTitle": "Forex Trading - Start FX Trading Online - Trade Nation",
+        "invalidLoginCredentialsMessage": "Wrong email or password"
+    }
+}
