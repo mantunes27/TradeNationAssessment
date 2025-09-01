@@ -3,7 +3,7 @@
 ##  Prerequisites
 
 Open powershell if you are on Windows or open terminal if you are on Linux/macOs in the project directory. If you are using Visual Code to view this project simply open a new terminal instance.
-All commands listed below are to be executed there.
+All commands listed below are to be executed in powershell/terminal.
 
 Verify if you have Node.js by using the command 'node -v' and 'npm -v'.
 If not download it and install it here: https://nodejs.org/
