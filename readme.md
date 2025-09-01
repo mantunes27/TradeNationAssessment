@@ -15,7 +15,7 @@ Install Playwright by using the command 'npx playwright install'.
 
 To run all tests using headed mode, use this command 'npx playwright test --headed'.
 
-To run a specific test file, use this command 'npx playwright test tests/<filename>.spec.ts'. Replace 'filename' with 'tradeNationHome' or 'googleInvalidLogin'. 
+To run a specific test file, use this command 'npx playwright test tests/"filename".spec.ts'. Replace 'filename' with 'tradeNationHome' or 'googleInvalidLogin'. 
 
 To run tests in headless mode, use this command 'npx playwright test --headless'.
 
